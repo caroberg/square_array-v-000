@@ -3,6 +3,5 @@ def square_array(array)
   number.to_i**2 = new_number
   new_number = array
   Array.new(array)
+  end
 end
-end
-
